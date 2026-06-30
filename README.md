@@ -13,6 +13,7 @@ I'm currently learning programming and building my skills one step at a time. Th
 ## 💻 Skills
 
 - C
+- HTML
 - Git
 - GitHub
 
