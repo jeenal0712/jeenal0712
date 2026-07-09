@@ -7,13 +7,14 @@ I'm currently learning programming and building my skills one step at a time. Th
 ## 🌱 Currently Learning
 
 - C Programming
-- HTML
+- HTML & CSS
 - Git & GitHub
 
 ## 💻 Skills
 
 - C
-- HTML
+- HTML5
+- CSS3
 - Git
 - GitHub
 
@@ -22,14 +23,17 @@ I'm currently learning programming and building my skills one step at a time. Th
 ## 📂 Featured Repositories
 
 - 💻 C Programming Practice
-- 🌐 Web Development Practice *(Coming Soon)*
-- 🧮 Calculator App *(Coming Soon)*
-- ✅ To-Do App *(Coming Soon)*
-- 🌦️ Weather App *(Coming Soon)*
+  - Practice programs covering C fundamentals, functions, arrays, recursion, and more.
+
+- 🌐 Amazon Homepage Clone
+  - A responsive Amazon homepage clone built using HTML and CSS.
+
+*(More projects will be added as I continue learning.)*
 
 ## 🎯 Goals
 
 - Build a strong foundation in programming
+- Learn Javascript
 - Create useful web applications
 - Learn Data Structures & Algorithms
 - Learn React
@@ -38,8 +42,8 @@ I'm currently learning programming and building my skills one step at a time. Th
 ## 📈 2026 Goals
 
 - Complete 10+ projects
+- Practice coding consistently
 - Improve problem-solving skills
-- Practice Git daily
 - Build a professional portfolio
 
 ---
