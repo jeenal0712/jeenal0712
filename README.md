@@ -34,9 +34,6 @@ I'm currently learning programming and building my skills one step at a time. Th
 
 [![Jeenal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeenal0712&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📈 Contribution Graph
-
-[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeenal0712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🎯 Goals
 
 - Build a strong foundation in programming
