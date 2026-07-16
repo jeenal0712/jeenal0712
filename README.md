@@ -6,15 +6,15 @@ I'm currently learning programming and building my skills one step at a time. Th
 
 ## 🌱 Currently Learning
 
-- C Programming
+- C 
 - HTML & CSS
 - Git & GitHub
 
 ## 💻 Skills
 
 - C
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git
 - GitHub
 
