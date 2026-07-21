@@ -2,11 +2,12 @@
 
 🎓 Computer Science Student
 
-I'm currently learning programming and building my skills one step at a time. This GitHub profile documents my learning journey through practice exercises and projects.
+I'm currently learning programming and building my skills one step at a time. This GitHub profile documents my learning journey through coding practice, projects, and continuous learning.
 
 ## 🌱 Currently Learning
 
-- C 
+- C
+- Data Structures & Algorithms (Basics)
 - HTML & CSS
 - Git & GitHub
 
@@ -23,7 +24,7 @@ I'm currently learning programming and building my skills one step at a time. Th
 ## 📂 Featured Repositories
 
 - 💻 C Programming Practice
-  - Practice programs covering C fundamentals, functions, arrays, recursion, and more.
+  - A collection of C programming practice programs covering fundamentals, arrays, strings, functions, recursion, structures, file handling, sorting, searching, and more.
 
 - 🌐 Amazon Homepage Clone
   - A responsive Amazon homepage clone built using HTML and CSS.
@@ -49,6 +50,7 @@ I'm currently learning programming and building my skills one step at a time. Th
 - Practice coding consistently
 - Improve problem-solving skills
 - Build a professional portfolio
+- Continue learning and improving every day
 
 ---
 
